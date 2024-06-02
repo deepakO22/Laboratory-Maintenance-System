@@ -26,7 +26,7 @@
 2. **Clone the Repository**:
    - Clone this repository to your local machine using:
      ```bash
-     git clone https://github.com/deepakO22/laboratory-maintenance-system.git
+     git clone https://github.com/deepakO22/Laboratory-Maintenance-System.git
      ```
 
 3. **Move Project to XAMPP Directory**:
